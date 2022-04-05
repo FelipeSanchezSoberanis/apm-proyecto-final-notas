@@ -33,7 +33,7 @@ La estrategia de producción que mejor funciona para los refrescos en los que se
 
 ## 2. Definir el proceso de producción y representarlo en un diagrama de flujo. Para esto es necesario que investiguen TODO el proceso para producir un refresco de cola
 
-- Realiza el modelo AS- IS de todo el proceso. (Investigar qué es y cómo se realiza este modelo)
+- Realiza el modelo AS-IS de todo el proceso. (Investigar qué es y cómo se realiza este modelo)
 
 # Identificación y metodología
 
