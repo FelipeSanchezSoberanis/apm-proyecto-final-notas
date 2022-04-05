@@ -10,10 +10,10 @@ Actualizado al 2022-04-04 21:11
 * [Identificación y metodología](#identificación-y-metodología)
     * [3. Caracterización de la empresa de manufactura.](#3.-caracterización-de-la-empresa-de-manufactura.)
     * [4. Realizar una propuesta de layout de la planta considerando diferentes tecnologías de automatización.](#4.-realizar-una-propuesta-de-layout-de-la-planta-considerando-diferentes-tecnologías-de-automatización.)
-    * [5. Explica como la tecnología propuesta puede influenciar en la estructura de la empresa:](#5.-explica-como-la-tecnología-propuesta-puede-influenciar-en-la-estructura-de-la-empresa:)
+    * [5. Explica como la tecnología propuesta puede influenciar en la estructura de la empresa.](#5.-explica-como-la-tecnología-propuesta-puede-influenciar-en-la-estructura-de-la-empresa.)
     * [6. Indicadores de impacto de la tecnología](#6.-indicadores-de-impacto-de-la-tecnología)
 * [Desarrollo de la propuesta](#desarrollo-de-la-propuesta)
-    * [9. Realiza una evaluación de la tecnología considerando lo siguiente:](#9.-realiza-una-evaluación-de-la-tecnología-considerando-lo-siguiente:)
+    * [9. Realiza una evaluación de la tecnología considerando lo siguiente.](#9.-realiza-una-evaluación-de-la-tecnología-considerando-lo-siguiente.)
 * [Resultados](#resultados)
     * [10. Describe un plan para la implementación de tecnología que servirá de guía para la automatización del sistema de manufactura de la compañía seleccionada.](#10.-describe-un-plan-para-la-implementación-de-tecnología-que-servirá-de-guía-para-la-automatización-del-sistema-de-manufactura-de-la-compañía-seleccionada.)
 * [Conclusiones](#conclusiones)
@@ -63,7 +63,7 @@ La estrategia de producción que mejor funciona para los refrescos en los que se
 
     - **Importante**: La justificación deberá decir, ¿por qué esa tecnología es la elegida y no otra? Por ejemplo: si eligen en el manejo de material de una estación de trabajo a otra una banda transportadora de rodillos deben poner porque esa es la mejor opción y no tal vez una banda transportadora de ruedas de patineta.
 
-## 5. Explica como la tecnología propuesta puede influenciar en la estructura de la empresa:
+## 5. Explica como la tecnología propuesta puede influenciar en la estructura de la empresa.
 
 - Tabla de Flexibilidad vs. Grado de automatización
 
@@ -77,7 +77,7 @@ La estrategia de producción que mejor funciona para los refrescos en los que se
 
 # Desarrollo de la propuesta
 
-## 9. Realiza una evaluación de la tecnología considerando lo siguiente:
+## 9. Realiza una evaluación de la tecnología considerando lo siguiente.
 
 - Identificar de manera puntual las ventajas de la implementación de la tecnología en el proceso de producción.
 
